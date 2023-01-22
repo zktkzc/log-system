@@ -1,0 +1,6 @@
+2022-12-27 11:59:26 DEBUG E:\Project\C\C++\日志系统\日志系统\main.cpp:6 hello world
+2022-12-27 12:07:12 DEBUG E:\Project\C\C++\日志系统\日志系统\main.cpp:7 hello world
+2022-12-27 12:07:12 INFO E:\Project\C\C++\日志系统\日志系统\main.cpp:8 name is jack, age is 18
+2022-12-27 12:07:12 ERROR E:\Project\C\C++\日志系统\日志系统\main.cpp:9 error message
+2022-12-27 12:07:12 WARN E:\Project\C\C++\日志系统\日志系统\main.cpp:10 warn message
+2022-12-27 12:28:19 DEBUG E:\Project\C\C++\日志系统\日志系统\main.cpp:7 hello world

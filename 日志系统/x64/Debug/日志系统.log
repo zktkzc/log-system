@@ -1,0 +1,5 @@
+﻿  Logger.cpp
+E:\Project\C\C++\日志系统\日志系统\Logger.cpp(64,22): warning C4244: “=”: 从“std::streamoff”转换到“int”，可能丢失数据
+  main.cpp
+  正在生成代码...
+  日志系统.vcxproj -> E:\Project\C\C++\日志系统\x64\Debug\日志系统.exe
